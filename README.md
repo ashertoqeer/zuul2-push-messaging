@@ -1,6 +1,6 @@
 # Zuul 2 Push Messaging
 
-This is sample project for blog post: [Zuul 2 Push Messaging Sample]()
+This is sample project for blog post: [Zuul 2 Push Messaging Sample](https://www.thebackendguy.com/2019/03/20/zuul-2-push-messaging-sample/)
 
 There are two projects in this directory **Zuul 2 Push**, which acts as a push server in this setup, and **Web Socket Client** which is a very basic web socket client.
 
